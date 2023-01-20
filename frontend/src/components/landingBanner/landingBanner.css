@@ -1,0 +1,38 @@
+
+
+.landingBanner{
+    display: flex;
+}
+.leftBanner{
+    width: 50%;
+}
+.leftBanner>img{
+    object-fit: cover;
+    width: 100%;
+    height: 100vh;
+}
+.RightBanner{
+    /* margin-left: auto; */
+
+   width: 400px;
+   margin: auto;
+}
+.Heading{
+    color: green;
+    padding: 10px;
+    font-size: 60px;
+}
+.btnDiv{
+    padding: 10px;
+    width: 400px;
+}
+
+.RightBanner>div>button{
+    color: green;
+    background: none;
+    height: 40px;
+    border-radius: 5px;
+    border: 2px solid green;
+    width: 80px;
+    cursor: pointer;
+}

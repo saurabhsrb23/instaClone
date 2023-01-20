@@ -1,0 +1,73 @@
+.createPost{
+max-width: 500px;
+margin: 50px auto;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 1px solid #707070;
+opacity: 1;
+padding: 30px;
+}
+/* .browse-file{
+    width: 500px;
+    height: 32px;
+} */
+
+.createHeader{
+    border: 1px solid #707070;
+    text-align: center;
+    text-transform: uppercase;
+}
+input[type="file"] {
+
+    display: inline
+    
+}
+
+.auth-location{
+    margin:  10px auto;
+    display: flex;
+justify-content: space-between;
+}
+.author{
+   
+    width: 200px;
+    height: 32px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 1px solid #707070;
+border-radius: 5px;
+}
+.location{
+    width: 200px;
+    height: 32px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 1px solid #707070;
+border-radius: 5px;
+}
+.description{
+    width: 500px;
+    height: 32px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    border-radius: 5px;
+
+}
+.sub-btn{
+    display: flex;
+    justify-content: center;
+    /* margin:  10px auto; */
+}
+
+#output{
+    border-radius: 10px solid gray;
+    width: 500px;
+    height: 300px;
+    margin: 10px auto;
+}
+.sub-btn button{
+    width: 100px;
+height: 32px;
+/* UI Properties */
+background: #F0F0F0 0% 0% no-repeat padding-box;
+border: 1px solid #707070;
+border-radius: 5px;
+}

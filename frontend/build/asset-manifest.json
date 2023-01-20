@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.deb41970.css",
+    "main.js": "/static/js/main.e02dd754.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/lens-1418954@2x.png": "/static/media/lens-1418954@2x.3a1f60436e3d640bacb6.png",
+    "index.html": "/index.html",
+    "main.deb41970.css.map": "/static/css/main.deb41970.css.map",
+    "main.e02dd754.js.map": "/static/js/main.e02dd754.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.deb41970.css",
+    "static/js/main.e02dd754.js"
+  ]
+}
